@@ -1,0 +1,11 @@
+---
+version: '3.4'
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - ${VUE_PORT_PUBLIC}:${VUE_PORT_DOCKER}
+...
