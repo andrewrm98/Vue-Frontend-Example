@@ -1,3 +1,6 @@
+# What is this?
+This is a frontend Vue application that provides Docker containers and NGinx to serve the static web files.
+
 # Welcome to your Vue Front-end Web Application
 Hi! My name is Andrew and I'll be guiding you through this app! I'll explain each file and how to get started with development. This app was carefully created to follow best practices. If you have any questions or comments please reach out to me at @email.com.
 
